@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Fix the program/Problems-Fix_the_program.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Fix the program/Problems-Fix_the_program.iml" group="Tic-Tac-Toe/Problems-Fix_the_program" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Fix the program (1)/Problems-Fix_the_program__1_.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Fix the program (1)/Problems-Fix_the_program__1_.iml" group="Tic-Tac-Toe/Problems-Fix_the_program__1_" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Fix the program (1)/Problems-Fix_the_program__1__main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Fix the program (1)/Problems-Fix_the_program__1__main.iml" group="Tic-Tac-Toe/Problems-Fix_the_program__1_" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Fix the program (1)/Problems-Fix_the_program__1__test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Fix the program (1)/Problems-Fix_the_program__1__test.iml" group="Tic-Tac-Toe/Problems-Fix_the_program__1_" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Fix the program (2)/Problems-Fix_the_program__2_.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Fix the program (2)/Problems-Fix_the_program__2_.iml" group="Tic-Tac-Toe/Problems-Fix_the_program__2_" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Fix the program (2)/Problems-Fix_the_program__2__main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Fix the program (2)/Problems-Fix_the_program__2__main.iml" group="Tic-Tac-Toe/Problems-Fix_the_program__2_" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Fix the program (2)/Problems-Fix_the_program__2__test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Fix the program (2)/Problems-Fix_the_program__2__test.iml" group="Tic-Tac-Toe/Problems-Fix_the_program__2_" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Fix the program/Problems-Fix_the_program_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Fix the program/Problems-Fix_the_program_main.iml" group="Tic-Tac-Toe/Problems-Fix_the_program" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Fix the program/Problems-Fix_the_program_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Fix the program/Problems-Fix_the_program_test.iml" group="Tic-Tac-Toe/Problems-Fix_the_program" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Tic-Tac-Toe.iml" filepath="$PROJECT_DIR$/.idea/modules/Tic-Tac-Toe.iml" group="Tic-Tac-Toe" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Tic-Tac-Toe/task/Tic-Tac-Toe-task.iml" filepath="$PROJECT_DIR$/.idea/modules/Tic-Tac-Toe/task/Tic-Tac-Toe-task.iml" group="Tic-Tac-Toe/Tic-Tac-Toe-task" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Tic-Tac-Toe/task/Tic-Tac-Toe-task_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Tic-Tac-Toe/task/Tic-Tac-Toe-task_main.iml" group="Tic-Tac-Toe/Tic-Tac-Toe-task" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Tic-Tac-Toe/task/Tic-Tac-Toe-task_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Tic-Tac-Toe/task/Tic-Tac-Toe-task_test.iml" group="Tic-Tac-Toe/Tic-Tac-Toe-task" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/util.iml" filepath="$PROJECT_DIR$/.idea/modules/util/util.iml" group="Tic-Tac-Toe/util" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/util_main.iml" filepath="$PROJECT_DIR$/.idea/modules/util/util_main.iml" group="Tic-Tac-Toe/util" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/util_test.iml" filepath="$PROJECT_DIR$/.idea/modules/util/util_test.iml" group="Tic-Tac-Toe/util" />
+    </modules>
+  </component>
+</project>
